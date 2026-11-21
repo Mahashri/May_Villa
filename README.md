@@ -26,3 +26,10 @@ The source code is the authoritative reference for the current page sections, vi
 
 ## Project status
 Website project. Verify current page content and deployment before presenting it as a live customer-facing product.
+
+
+---
+
+## Live Demo
+
+[Open the deployed application](https://mahashri.github.io/May_Villa/)
